@@ -45,7 +45,13 @@
 			"confirmations": {
 				"attendee": [
 					{
-						"attendee_name": "Lea Verou"
+						"attendee_name": "Patrick Platvoet"
+					},
+					{
+						"attendee_name": "Patrick Platvoet"
+					},
+					{
+						"attendee_name": "validatie plis"
 					}
 				]
 			}
